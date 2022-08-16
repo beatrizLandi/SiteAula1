@@ -1,0 +1,146 @@
+*{
+    background-color: rgb(19, 18, 20);
+
+}
+
+
+
+header{
+
+    height: 47px;
+    background-color:rgb(158, 0, 0);
+    padding: 1px;
+    text-align: left;
+
+
+}
+
+.Logo{
+    height: 45px;
+}
+
+.Logo2{
+    height: 45px;
+    background-color: rgb(158, 0, 0);
+}
+
+
+
+.container{
+    border: 5px;
+    width: 1326px;
+    height: 700px;
+    display:flex;
+
+    
+
+}
+
+
+
+.Info{
+    
+    color: rgb(104, 107, 110);
+    padding-left: 160px;
+    padding-top: 140px;
+    font-size: 23px;
+    font-style:initial;
+    display: 
+
+
+}
+.imagemTopo{
+
+    padding-left: 275px;
+    border: 5px;
+    padding-top: 10px;
+    display: 
+    
+}
+.NomeEmKanji{
+    color: rgb(158, 0, 0);
+    padding-left: 40px;
+    padding-top: 3px;
+    font-size: 34px;
+    
+    
+  
+}
+
+.geral{
+
+    border: 5px solid red;
+    border: 5px;
+    width: 1326px;
+    height: 700px;
+    display:grid;
+}
+
+.cabecalho{
+
+    padding-top: 100px;
+    padding-left: 400px;
+    
+    height: 47px;
+    padding: 1px;
+    text-align: center;
+    color: rgb(125, 129, 133);
+    font-size: 60px;
+    
+    
+}   
+
+.historia{
+
+    color: rgb(125, 129, 133);
+    font-size: 12px;
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 300px;
+    padding-top: 10px;
+    display: flex;
+    
+}
+
+.imagemhistoria{
+
+    padding-left: 10;
+    width: 300px;
+    
+    
+}
+
+.txthistoria{
+
+    text-align: left;
+    padding: 50px;
+}
+    .personagemCabeçalho{
+
+        padding-top: 100px;
+        padding-left: 400px;
+        
+        height: 47px;
+        padding: 1px;
+        text-align: center;
+        color: rgb(125, 129, 133);
+        font-size: 50px;
+    }
+.personagem{
+
+    color: rgb(125, 129, 133);
+    font-size:  12px;
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 300px;
+    padding-top: 10px;
+    display: flex;
+}
+
+.txtpersonagem{
+
+    text-align: left;
+    padding: 50px;
+    
+
+}
